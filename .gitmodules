@@ -42,6 +42,10 @@
 	path = AzureStor
 	url = https://github.com/azure/azurestor
 	shallow = true
+[submodule "AzureTableStor"]
+	path = AzureTableStor
+	url = https://github.com/azure/azuretablestor
+	shallow = true
 [submodule "AzureVision"]
 	path = AzureVision
 	url = https://github.com/azure/azurevision
