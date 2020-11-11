@@ -2,59 +2,74 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "AzureAuth"]
 	path = AzureAuth
 	url = https://github.com/azure/azureauth
 	shallow = true
+	branch = HEAD
 [submodule "AzureCognitive"]
 	path = AzureCognitive
 	url = https://github.com/azure/azurecognitive
 	shallow = true
+	branch = HEAD
 [submodule "AzureContainers"]
 	path = AzureContainers
 	url = https://github.com/azure/azurecontainers
 	shallow = true
+	branch = HEAD
 [submodule "AzureGraph"]
 	path = AzureGraph
 	url = https://github.com/azure/azuregraph
 	shallow = true
+	branch = HEAD
 [submodule "AzureKeyVault"]
 	path = AzureKeyVault
 	url = https://github.com/azure/azurekeyvault
 	shallow = true
+	branch = HEAD
 [submodule "AzureKusto"]
 	path = AzureKusto
 	url = https://github.com/azure/azurekusto
 	shallow = true
+	branch = HEAD
 [submodule "azuremlsdk"]
 	path = azuremlsdk
 	url = https://github.com/azure/azureml-sdk-for-r
 	shallow = true
+	branch = HEAD
 [submodule "AzureQstor"]
 	path = AzureQstor
 	url = https://github.com/azure/azureqstor
 	shallow = true
+	branch = HEAD
 [submodule "AzureRMR"]
 	path = AzureRMR
 	url = https://github.com/azure/azurermr
 	shallow = true
+	branch = HEAD
 [submodule "AzureStor"]
 	path = AzureStor
 	url = https://github.com/azure/azurestor
 	shallow = true
+	branch = HEAD
 [submodule "AzureTableStor"]
 	path = AzureTableStor
 	url = https://github.com/azure/azuretablestor
 	shallow = true
+	branch = HEAD
 [submodule "AzureVision"]
 	path = AzureVision
 	url = https://github.com/azure/azurevision
 	shallow = true
+	branch = HEAD
 [submodule "AzureVM"]
 	path = AzureVM
 	url = https://github.com/azure/azurevm
 	shallow = true
+	branch = HEAD
 [submodule "AzureVMmetadata"]
 	path = AzureVMmetadata
 	url = https://github.com/azure/azurevmmetadata
 	shallow = true
+	branch = HEAD
