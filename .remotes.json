@@ -1,0 +1,8 @@
+[
+  {
+    "package": "AzureGraph",
+    "url": "https://github.com/Azure/AzureGraph",
+    "via": ["AzureRMR"],
+    "from": "AzureRMR"
+  }
+]
