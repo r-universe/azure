@@ -15,6 +15,10 @@
 	path = AzureContainers
 	url = https://github.com/azure/azurecontainers
 	shallow = true
+[submodule "AzureCosmosR"]
+	path = AzureCosmosR
+	url = https://github.com/azure/azurecosmosr
+	shallow = true
 [submodule "AzureGraph"]
 	path = AzureGraph
 	url = https://github.com/azure/azuregraph
