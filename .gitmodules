@@ -63,3 +63,7 @@
 	path = AzureVMmetadata
 	url = https://github.com/azure/azurevmmetadata
 	shallow = true
+[submodule "Microsoft365R"]
+	path = Microsoft365R
+	url = https://github.com/azure/microsoft365r
+	shallow = true
