@@ -1,14 +1,18 @@
 [
   {
-    "package": "AzureAuth",
+    "package": "AzureVMmetadata",
     "oncran": true
   },
   {
-    "package": "AzureCognitive",
+    "package": "AzureVision",
     "oncran": true
   },
   {
-    "package": "AzureContainers",
+    "package": "AzureQstor",
+    "oncran": true
+  },
+  {
+    "package": "Microsoft365R",
     "oncran": true
   },
   {
@@ -16,11 +20,39 @@
     "oncran": true
   },
   {
+    "package": "AzureTableStor",
+    "oncran": true
+  },
+  {
+    "package": "AzureCognitive",
+    "oncran": true
+  },
+  {
     "package": "AzureGraph",
     "oncran": true
   },
   {
+    "package": "AzureStor",
+    "oncran": true
+  },
+  {
+    "package": "AzureRMR",
+    "oncran": true
+  },
+  {
     "package": "AzureKeyVault",
+    "oncran": true
+  },
+  {
+    "package": "AzureVM",
+    "oncran": true
+  },
+  {
+    "package": "AzureAuth",
+    "oncran": true
+  },
+  {
+    "package": "AzureContainers",
     "oncran": true
   },
   {
@@ -29,38 +61,6 @@
   },
   {
     "package": "azuremlsdk",
-    "oncran": true
-  },
-  {
-    "package": "AzureQstor",
-    "oncran": true
-  },
-  {
-    "package": "AzureRMR",
-    "oncran": true
-  },
-  {
-    "package": "AzureStor",
-    "oncran": true
-  },
-  {
-    "package": "AzureTableStor",
-    "oncran": true
-  },
-  {
-    "package": "AzureVision",
-    "oncran": true
-  },
-  {
-    "package": "AzureVM",
-    "oncran": true
-  },
-  {
-    "package": "AzureVMmetadata",
-    "oncran": true
-  },
-  {
-    "package": "Microsoft365R",
     "oncran": true
   }
 ]
