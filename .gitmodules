@@ -1,85 +1,52 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AzureAuth"]
 	path = AzureAuth
 	url = https://github.com/azure/azureauth
-	shallow = true
-	registered = true
 [submodule "AzureCognitive"]
 	path = AzureCognitive
 	url = https://github.com/azure/azurecognitive
-	shallow = true
-	registered = true
 [submodule "AzureContainers"]
 	path = AzureContainers
 	url = https://github.com/azure/azurecontainers
-	shallow = true
-	registered = true
 [submodule "AzureCosmosR"]
 	path = AzureCosmosR
 	url = https://github.com/azure/azurecosmosr
-	shallow = true
-	registered = true
 [submodule "AzureGraph"]
 	path = AzureGraph
 	url = https://github.com/azure/azuregraph
-	shallow = true
-	registered = true
 [submodule "AzureKeyVault"]
 	path = AzureKeyVault
 	url = https://github.com/azure/azurekeyvault
-	shallow = true
-	registered = true
 [submodule "AzureKusto"]
 	path = AzureKusto
 	url = https://github.com/azure/azurekusto
-	shallow = true
-	registered = true
 [submodule "azuremlsdk"]
 	path = azuremlsdk
 	url = https://github.com/azure/azureml-sdk-for-r
-	shallow = true
-	registered = true
 [submodule "AzureQstor"]
 	path = AzureQstor
 	url = https://github.com/azure/azureqstor
-	shallow = true
-	registered = true
 [submodule "AzureRMR"]
 	path = AzureRMR
 	url = https://github.com/azure/azurermr
-	shallow = true
-	registered = true
 [submodule "AzureStor"]
 	path = AzureStor
 	url = https://github.com/azure/azurestor
-	shallow = true
-	registered = true
 [submodule "AzureTableStor"]
 	path = AzureTableStor
 	url = https://github.com/azure/azuretablestor
-	shallow = true
-	registered = true
 [submodule "AzureVision"]
 	path = AzureVision
 	url = https://github.com/azure/azurevision
-	shallow = true
-	registered = true
 [submodule "AzureVM"]
 	path = AzureVM
 	url = https://github.com/azure/azurevm
-	shallow = true
-	registered = true
 [submodule "AzureVMmetadata"]
 	path = AzureVMmetadata
 	url = https://github.com/azure/azurevmmetadata
-	shallow = true
-	registered = true
 [submodule "Microsoft365R"]
 	path = Microsoft365R
 	url = https://github.com/azure/microsoft365r
-	shallow = true
-	registered = true
