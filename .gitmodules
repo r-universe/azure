@@ -23,9 +23,6 @@
 [submodule "AzureKusto"]
 	path = AzureKusto
 	url = https://github.com/azure/azurekusto
-[submodule "azuremlsdk"]
-	path = azuremlsdk
-	url = https://github.com/azure/azureml-sdk-for-r
 [submodule "AzureQstor"]
 	path = AzureQstor
 	url = https://github.com/azure/azureqstor
@@ -38,15 +35,18 @@
 [submodule "AzureTableStor"]
 	path = AzureTableStor
 	url = https://github.com/azure/azuretablestor
-[submodule "AzureVision"]
-	path = AzureVision
-	url = https://github.com/azure/azurevision
 [submodule "AzureVM"]
 	path = AzureVM
 	url = https://github.com/azure/azurevm
 [submodule "AzureVMmetadata"]
 	path = AzureVMmetadata
 	url = https://github.com/azure/azurevmmetadata
+[submodule "AzureVision"]
+	path = AzureVision
+	url = https://github.com/azure/azurevision
 [submodule "Microsoft365R"]
 	path = Microsoft365R
 	url = https://github.com/azure/microsoft365r
+[submodule "azuremlsdk"]
+	path = azuremlsdk
+	url = https://github.com/azure/azureml-sdk-for-r
