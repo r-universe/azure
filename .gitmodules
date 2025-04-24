@@ -23,9 +23,6 @@
 [submodule "AzureKusto"]
 	path = AzureKusto
 	url = https://github.com/azure/azurekusto
-[submodule "AzureQstor"]
-	path = AzureQstor
-	url = https://github.com/azure/azureqstor
 [submodule "AzureRMR"]
 	path = AzureRMR
 	url = https://github.com/azure/azurermr
